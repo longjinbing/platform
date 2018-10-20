@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="platform-admin" />
+        <module name="platform-common" />
+        <module name="platform-generator" />
+        <module name="platform-ui" />
+        <module name="platform-vote" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gg" target="1.8" />
+      <module name="ll" target="1.8" />
+      <module name="platform-web" target="1.8" />
+      <module name="platform-weba" target="1.8" />
+      <module name="platform-webui" target="1.8" />
+      <module name="platformweb" target="1.8" />
+      <module name="pp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
